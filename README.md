@@ -4,8 +4,6 @@ A simple **SwiftUI iOS application** that fetches and displays the latest trendi
 
 This project is built with SwiftUI and demonstrates working with APIs, lists, navigation, and a clean UI for browsing tech news.  
 
-![App Screenshot](./Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-07%20at%2009.37.13.png)
-
 ---
 
 ## ✨ Features
