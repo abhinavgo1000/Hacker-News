@@ -27,6 +27,9 @@
 		3F18D8AE2E6AB5F800DAF5BB /* Hacker News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hacker News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F18D8BB2E6AB5FA00DAF5BB /* Hacker NewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hacker NewsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F18D8C52E6AB5FA00DAF5BB /* Hacker NewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hacker NewsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F6731982E6D4125004623A0 /* gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = gitignore; sourceTree = "<group>"; };
+		3F6731992E6D4125004623A0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		3F67319A2E6D4125004623A0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +82,9 @@
 				3F18D8BE2E6AB5FA00DAF5BB /* Hacker NewsTests */,
 				3F18D8C82E6AB5FA00DAF5BB /* Hacker NewsUITests */,
 				3F18D8AF2E6AB5F800DAF5BB /* Products */,
+				3F6731982E6D4125004623A0 /* gitignore */,
+				3F6731992E6D4125004623A0 /* LICENSE */,
+				3F67319A2E6D4125004623A0 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
